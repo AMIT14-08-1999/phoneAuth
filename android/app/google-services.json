@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088911040534",
+    "project_id": "fir-phonrauth",
+    "storage_bucket": "fir-phonrauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088911040534:android:fa50650ca7ad90d3ee5537",
+        "android_client_info": {
+          "package_name": "com.amit.phonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088911040534-311ma495blti78p3c20sus1hldgpt4hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuS1qWFLMubgxW2IOus_YWrjyHI9WRX2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088911040534-311ma495blti78p3c20sus1hldgpt4hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
